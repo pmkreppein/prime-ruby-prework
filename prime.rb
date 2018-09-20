@@ -9,7 +9,6 @@ def check_division(n)
     end
     return flag
 end
-end
 
 def prime(number)
   case number

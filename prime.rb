@@ -1,4 +1,4 @@
 # Add  code here!
 def prime(number)
-  if number 
+  switch number
 end

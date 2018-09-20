@@ -1,6 +1,6 @@
 # Add  code here!
 def check_division(n)
-  (1..100).step
+  (1..100).step(1) do |x
 end
 
 def prime(number)

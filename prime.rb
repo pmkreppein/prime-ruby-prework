@@ -17,4 +17,6 @@ def prime(number)
     when check_division?(number)
       return true
     else 
+      return true
+    end
 end

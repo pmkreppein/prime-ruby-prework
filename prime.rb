@@ -12,8 +12,9 @@ end
 
 def prime(number)
   case number
-    when number <= 0
+    when number <= 0 
       return false
-    when 
-      return true 
+    when check_division?(number)
+      return true
+    else 
 end

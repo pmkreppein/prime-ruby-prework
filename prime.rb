@@ -20,3 +20,5 @@ def prime(number)
       return true
     end
 end
+
+puts prime(2)

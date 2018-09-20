@@ -1,6 +1,11 @@
 # Add  code here!
 def check_division(n)
-  (1..100).step(1) do |x
+  flag = true
+  (1..100).step(1) do |x|
+    if n % x == 0 
+      flag = false
+    else 
+      continue
 end
 
 def prime(number)

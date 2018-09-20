@@ -12,7 +12,8 @@ end
 
 def prime(number)
   case number
-    when number <= 0
+    when number <= 0 || check_division(number)
       return false
     when 
+      return true 
 end

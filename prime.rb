@@ -1,4 +1,7 @@
 # Add  code here!
 def prime(number)
-  switch number
+  case number
+    when number <= 0
+      return false
+    when
 end

@@ -5,7 +5,9 @@ def check_division(n)
     if n % x == 0 
       flag = false
     else 
-      continue
+      next
+    end
+    return flag
 end
 
 def prime(number)

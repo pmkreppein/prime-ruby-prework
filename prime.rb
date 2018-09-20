@@ -21,5 +21,5 @@ def prime(number)
     end
 end
 
-puts(prime(2))
+puts(prime?(2))
 end

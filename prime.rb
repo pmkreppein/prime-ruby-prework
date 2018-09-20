@@ -1,4 +1,8 @@
 # Add  code here!
+def check_division(n)
+  
+end
+
 def prime(number)
   case number
     when number <= 0
